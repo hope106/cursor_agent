@@ -1,0 +1,49 @@
+# 환경 변수
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+.venv/
+
+# Vue.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+/dist
+.env.local
+.env.*.local
+
+# 에디터 및 IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 업로드 파일
+/backend/uploads/
